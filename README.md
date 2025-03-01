@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Content Creator)`**
 
-I am a full-time Roblox Developer and Content Creator on Youtube, where all my past work is. I publish that content on my YouTube channel [eRift][youtube] with more than 100 subscribers.
+I am a full-time Roblox Developer and Content Creator on Youtube, where all my past work is. I publish that content on my YouTube channel [eRift][youtube] with more than 100 subscribers. I do VFX and code in Luau.
 
    <p align="left">
       <a href="https://www.youtube.com/@eRift?sub_confirmation=1">
