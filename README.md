@@ -29,7 +29,7 @@ I am a full-time Roblox Developer and Content Creator on Youtube, where all my p
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![roblox assistant in a nutshell | Roblox Studio](https://ytcards.demolab.com/?id=htincwcN_aw&title=roblox+assistant+in+a+nutshell+|+Roblox+Studio%2C.&lang=en&timestamp=1740593333&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=46 "roblox assistant in a nutshell | Roblox Studio")](https://www.youtube.com/watch?v=htincwcN_aw)
-[![Movement System | Roblox Studio](https://ytcards.demolab.com/?id=18EZejUvxkQ&title=Movement+System+|+Roblox+Studio%27t&lang=en&timestamp=100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24 "Movement System | Roblox Studio")](https://www.youtube.com/watch?v=18EZejUvxkQ)
+[![Movement System | Roblox Studio](https://ytcards.demolab.com/?id=18EZejUvxkQ&title=Movement+System+|+Roblox+Studio%27t&lang=en&timestamp=1740315607&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24 "Movement System | Roblox Studio")](https://www.youtube.com/watch?v=18EZejUvxkQ)
 
 <!-- END YOUTUBE-CARDS -->
 
