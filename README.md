@@ -1,8 +1,8 @@
 # 🙃 riftcode
 
-**`Digital Craftsman (Developer/Content Creator)`**
+**`Minecraft Server Creator`**
 
-5 Years experience in Luau and recently learned Skript.
+5 Years experience in Luau and recently learned Skript. Have made a server called Talent SMP on Minecraft.
 
    <p align="left">
       <a href="https://www.youtube.com/@eRift?sub_confirmation=1">
@@ -38,3 +38,4 @@
    I started my coding journey at 8, when I was inspired by brother to code. Since I was a huge fan of Roblox, playing that game every day, I booted up Roblox Studio, not knowing what to do. I looked at a few tutorials, and then I started programming in Luau. I was doing commissions for people after, for in-game currency. Then my brother introduced me to HTML and taught me a few things about it, so I was hooked. I looked at a few tutorials and started getting the hang of it. I am still continuing my journey as a developer.
 -->
 [youtube]: https://youtube.com/@eRift
+[discord]: https://discord.gg/FKMy3WMR
