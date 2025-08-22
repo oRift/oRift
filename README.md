@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Content Creator)`**
 
-I am a full-time Roblox Developer and Content Creator on Youtube, where all my past work is. I publish that content on my YouTube channel [riftcode][youtube] with more than 100 subscribers. I do VFX and code in Luau.
+5 Years experience in Luau and recently learned Skript.
 
    <p align="left">
       <a href="https://www.youtube.com/@eRift?sub_confirmation=1">
@@ -19,7 +19,7 @@ I am a full-time Roblox Developer and Content Creator on Youtube, where all my p
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/lua/lua-plain.svg" />
 
 <br />
 
