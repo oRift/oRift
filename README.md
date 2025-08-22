@@ -5,9 +5,9 @@
 5 Years experience in Luau and recently learned Skript. Have made a server called Talent SMP on Minecraft.
 
    <p align="left">
-      <a href="https://www.youtube.com/@eRift?sub_confirmation=1">
+      <a href="https://www.youtube.com/@riftcode?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC8dhutoCJKLHVxDzg0gaQvg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@eRift">
+      <a href="https://www.youtube.com/@riftcode">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC8dhutoCJKLHVxDzg0gaQvg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/oRift?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/oRift?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -37,5 +37,5 @@
  <summary><h3>👨‍💻 Rift's Coding Journey</h3></summary>
    I started my coding journey at 8, when I was inspired by brother to code. Since I was a huge fan of Roblox, playing that game every day, I booted up Roblox Studio, not knowing what to do. I looked at a few tutorials, and then I started programming in Luau. I was doing commissions for people after, for in-game currency. Then my brother introduced me to HTML and taught me a few things about it, so I was hooked. I looked at a few tutorials and started getting the hang of it. I am still continuing my journey as a developer.
 -->
-[youtube]: https://youtube.com/@eRift
+[youtube]: https://youtube.com/@riftcode
 [discord]: https://discord.gg/FKMy3WMR
