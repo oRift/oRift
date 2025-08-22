@@ -25,18 +25,6 @@
 
 #
 
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![roblox assistant in a nutshell | Roblox Studio](https://ytcards.demolab.com/?id=htincwcN_aw&title=roblox+assistant+in+a+nutshell+|+Roblox+Studio%2C.&lang=en&timestamp=1731000000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=46 "roblox assistant in a nutshell | Roblox Studio")](https://www.youtube.com/watch?v=htincwcN_aw)
-[![Movement System | Roblox Studio](https://ytcards.demolab.com/?id=18EZejUvxkQ&title=Movement+System+|+Roblox+Studio%27t&lang=en&timestamp=1731000000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24 "Movement System | Roblox Studio")](https://www.youtube.com/watch?v=18EZejUvxkQ)
-
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/eRift?sub_confirmation=1)
-
-#
-
 ### 📊 Stats
 
 ![Rift's GitHub stats](https://github-readme-stats.vercel.app/api?username=orift&show_icons=true&theme=gruvbox)
