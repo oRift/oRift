@@ -1,8 +1,8 @@
 # 🙃 riftcode
 
-**`Minecraft Server Creator`**
+**`Advanced Coder`**
 
-5 Years experience in Luau and recently learned Skript. Have made a server called Talent SMP on Minecraft.
+5 Years experience in Luau and recently learned Skript.
 
    <p align="left">
       <a href="https://www.youtube.com/@riftcode?sub_confirmation=1">
@@ -19,7 +19,7 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/lua/lua-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/lua/lua-original.svg" />
 
 <br />
 
