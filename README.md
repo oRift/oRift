@@ -18,22 +18,17 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Lua" src="https://img.shields.io/badge/Lua-14354C.svg?logo=lua"></a>
 </p>
   
-  <h2>Tools</h2>
+<h2>Tools</h2>
 
   <p>
-      <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-      <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
-      <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
+    <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 
-  <p>
-    <a href="https://github.com/oRift/github-readme-streak-stats">
-    </a>
-  </p>
-
-  <h2>GitHub Profile Stats</h2>
+  <h2>Github Activity</h2>
 
   <a href="https://github.com/oRift/github-readme-activity-graph"><img alt="Rift's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=oRift&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
