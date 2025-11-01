@@ -27,10 +27,6 @@
       <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-  
-  <summary><h2>Stats and Activity</h2></summary>
-
-  <h2>Streak Stats</h2>
 
   <p>
     <a href="https://github.com/oRift/github-readme-streak-stats">
