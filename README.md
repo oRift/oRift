@@ -11,19 +11,14 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-
-
-<summary><h2>🛠️ My Favorite Tools</h2></summary>
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
-<h3>Programming Languages</h3>
+<h2>Programming Languages</h2>
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Lua" src="https://img.shields.io/badge/Lua-14354C.svg?logo=lua"></a>
 </p>
   
-  <h3>Tools</h3>
+  <h2>Tools</h2>
 
   <p>
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
@@ -35,27 +30,16 @@
   
   <summary><h2>Stats and Activity</h2></summary>
 
-  <h3>Streak Stats</h3>
+  <h2>Streak Stats</h2>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/oRift/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
   </p>
 
-  <h3>GitHub Profile Stats</h3>
+  <h2>GitHub Profile Stats</h2>
 
   <a href="https://github.com/oRift/github-readme-activity-graph"><img alt="Rift's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=oRift&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <h3>Recent GitHub Activity</h3>
-
-1. ❌ Closed PR [#203](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/203) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-2. ❌ Closed PR [#205](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/205) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-3. ❌ Closed PR [#207](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/207) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-4. 💪 Opened PR [#210](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/210) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-5. ❌ Closed PR [#426](https://github.com/DenverCoder1/readme-typing-svg/pull/426) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 
 <summary><h2>Past Work</h2></summary>
 
