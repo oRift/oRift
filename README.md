@@ -2,10 +2,9 @@
 **`Advanced Coder`**
 
 ### Languages
-<img align="left" alt="HTML" width="30px" style="padding-down:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/lua/lua-original.svg" />
-- **`5 years`**
-<img align="left" alt="HTML" width="30px" style="padding-down:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" />
- - **`2 weeks`**
+- <img alt="HTML" width="30px" style="display: inline; margin-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/lua/lua-original.svg" /> **`5 years`**
+- <img alt="HTML" width="30px" style="display: inline; margin-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" /> **`2 weeks`**
+ 
 
 
 
