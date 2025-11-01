@@ -2,25 +2,26 @@
 **`Advanced Coder`**
 
 # Languages
-<div style="display: flex: flex-direction: column">
-  <!-- HTML --> 
-  <div style="display: flex: flex-direction: row; gap: 10px">
-    <img alt="HTML" width="40px" style="display: inline;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/lua/lua-original.svg" />
+<div style="display: flex; flex-direction: column">
+  <!-- LUA --> 
+  <div style="display: flex; flex-direction: row; align-items: center; gap: 10px">
+    <img alt="Lua" width="40px" style="display: inline;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/lua/lua-original.svg" />
+    <span>5 years</span>
   </div>
 
-   <div style="display: flex: flex-direction: row; gap: 10px">
-    <img alt="HTML" width="40px" style="display: inline;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" />
+   <!-- PYTHON -->
+   <div style="display: flex; flex-direction: row; align-items: center; gap: 10px">
+    <img alt="Python" width="40px" style="display: inline;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" />
+    <span>2 weeks</span>
   </div>
-  <!-- others.. --> 
 </div>
 
 # Tools
-<div style="display: flex: flex-direction: column">
-  <!-- HTML --> 
-  <div style="display: flex: flex-direction: row; gap: 10px">
-    <img alt="HTML" width="30px" style="display: inline;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" />
+<div style="display: flex; flex-direction: column">
+  <!-- VSCODE--> 
+  <div style="display: flex; flex-direction: row; align-items: center; gap: 10px">
+    <img alt="Visual Studio Code" width="30px" style="display: inline;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" />
   </div>
-  <!-- others.. --> 
 </div>
 
 ### Summary of Rift
