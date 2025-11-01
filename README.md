@@ -18,7 +18,7 @@
 <div style="display: flex: flex-direction: column">
   <!-- HTML --> 
   <div style="display: flex: flex-direction: row; gap: 10px">
-    <img align=left alt="HTML" width="30px" style="display: inline;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" />
+    <img alt="HTML" width="30px" style="display: inline;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" />
   </div>
   <!-- others.. --> 
 </div>
