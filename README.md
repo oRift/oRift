@@ -1,41 +1,13 @@
-# 🙃 riftcode
-
+# 🙃 riftcodes
 **`Advanced Coder`**
-
-Experience.
-
-   <p align="left">
-      <a href="https://www.youtube.com/@riftcode?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC8dhutoCJKLHVxDzg0gaQvg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@riftcode">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC8dhutoCJKLHVxDzg0gaQvg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/oRift?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/oRift?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/oRift?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/oRift?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
----
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/lua/lua-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/lua/lua-original.svg" /> - **`5 years`**
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" /> - **`2 weeks`**
 
-<br />
-
-#
-
-### 📊 Stats
-
-![Rift's GitHub stats](https://github-readme-stats.vercel.app/api?username=orift&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
 <!--
 <details>
- <summary><h3>👨‍💻 Rift's Coding Journey</h3></summary>
-   I started my coding journey at 8, when I was inspired by brother to code. Since I was a huge fan of Roblox, playing that game every day, I booted up Roblox Studio, not knowing what to do. I looked at a few tutorials, and then I started programming in Luau. I was doing commissions for people after, for in-game currency. Then my brother introduced me to HTML and taught me a few things about it, so I was hooked. I looked at a few tutorials and started getting the hang of it. I am still continuing my journey as a developer.
+ <summary><h3>Summary of riftcodes</h3></summary>
+   I've been coding since I was 8 years old. Inspired by my brother coding, I decided to make games on Roblox Studio, as that was the game I played alot. I've been continuing on making games for over 5 years now, having experience in Lua. Since it got boring after a long time, I decided to switch to Python. I am still learning but once I'm done learning Python, I will move to many more languages in the future.
 -->
-[youtube]: https://youtube.com/@riftcode
-[discord]: https://discord.gg/FKMy3WMR
