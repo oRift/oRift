@@ -5,11 +5,11 @@
 <div style="display: flex: flex-direction: column">
   <!-- HTML --> 
   <div style="display: flex: flex-direction: row; gap: 10px">
-    <img alt="HTML" width="60px" style="display: inline;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/lua/lua-original.svg" /> 5 years
+    <img alt="HTML" width="40px" style="display: inline;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/lua/lua-original.svg" /> ### - 5 years
   </div>
 
    <div style="display: flex: flex-direction: row; gap: 10px">
-    <img alt="HTML" width="60px" style="display: inline;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" /> 2 weeks
+    <img alt="HTML" width="40px" style="display: inline;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" /> ### - 2 weeks
   </div>
   <!-- others.. --> 
 </div>
