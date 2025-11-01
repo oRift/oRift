@@ -2,7 +2,7 @@
 
 **`Advanced Coder`**
 
-5 Years experience in Luau and recently learned Skript.
+Experience.
 
    <p align="left">
       <a href="https://www.youtube.com/@riftcode?sub_confirmation=1">
