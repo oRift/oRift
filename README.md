@@ -43,3 +43,8 @@
 <a href="https://www.youtube.com/watch?v=Mt_Bsj6K9Lw"><img src="https://ytcards.demolab.com/?id=Mt_Bsj6K9Lw&title=Run+Open+Source+Code+in+Seconds+with+GitPod&lang=en&timestamp=1642108413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=578" alt="Run Open Source Code in Seconds with GitPod" title="Run Open Source Code in Seconds with GitPod"></a>
 <!-- END YOUTUBE-CARDS -->
 </p>
+
+<details>
+  <summary><h3>Coding history</h3></summary>
+  I started coding Luau at a young age, scripting in Roblox Studio. After 5 years, I decided to move on from that and learn more languages. Currently at Python as of writing.
+</details>
