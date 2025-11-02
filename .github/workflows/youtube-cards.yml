@@ -16,7 +16,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+      - uses: oRift/github-readme-youtube-cards@main
         with:
           channel_id: UC8dhutoCJKLHVxDzg0gaQvg
           comment_tag_name: YOUTUBE-CARDS
