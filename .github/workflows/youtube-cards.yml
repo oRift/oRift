@@ -22,5 +22,5 @@ jobs:
           comment_tag_name: YOUTUBE-CARDS
           max_title_lines: 2
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-          show_duration: true
+          show_duration: false
           output_type: html
