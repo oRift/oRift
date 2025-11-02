@@ -28,6 +28,7 @@
     <a href="#"><img alt="Brave"; width="48px" src="https://i.redd.it/gscm22m0nk481.png"></a>
     <a href="#"><img alt="Discord"; width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"></a>
     <a href="#"><img alt="Visual Studio Code"; width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"></a>
+    <a href="#"><img alt="Roblox Studio"; width="48px" src="https://static.wikia.nocookie.net/logopedia/images/3/33/Roblox_Studio_2022_%28Flat%29.svg/revision/latest/scale-to-width-down/250?cb=20221103141717"></a>
   </p>
 
 <!-- Activity section -->
