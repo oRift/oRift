@@ -4,7 +4,7 @@
 </p>
 
 <!-- Social icons section -->
-<p align="center"; padding="20px">
+<p align="center">
   <a href="https://www.youtube.com/@riftcode"><img width="48px" alt="Youtube" title="Youtube" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/riftcqdes"><img width="48px" alt="Twitter" title="Twitter" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg"/></a>
@@ -17,7 +17,7 @@
 
 <h2>Programming Languages</h1>
 
-<p>
+<p align="center"; padding="20px">
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python"; width="64px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Lua"; width="64px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg"></a>
 </p>
@@ -26,7 +26,7 @@
   
 <h2>Tools</h2>
 
-  <p align="left">
+  <p align="center"; padding="20px">
     <a href="#"><img alt="Brave"; width="64px" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
     <a href="#"><img alt="Discord"; width="64px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"></a>
     <a href="#"><img alt="OBS Studio"; width="64px" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
