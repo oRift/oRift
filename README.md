@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.youtube.com/c/riftcode"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/riftcqdes"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://twitter.com/riftcqdes"><img width="32px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <!-- https://i.imgur.com/AixJgnm.png -->
