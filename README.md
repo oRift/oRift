@@ -18,8 +18,8 @@
 <h2>Programming Languages</h1>
 
 <p align="center">
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python"; width="64px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Lua"; width="64px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python"; width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Lua"; width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg"></a>
 </p>
 
 <!-- Tools section -->
@@ -27,11 +27,11 @@
 <h2>Tools</h2>
 
   <p align="center">
-    <a href="#"><img alt="Brave"; width="64px" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Discord"; width="64px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"></a>
-    <a href="#"><img alt="OBS Studio"; width="64px" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Photopea"; width="64px" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code"; width="64px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"></a>
+    <a href="#"><img alt="Brave"; width="48px" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+    <a href="#"><img alt="Discord"; width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"></a>
+    <a href="#"><img alt="OBS Studio"; width="48px" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
+    <a href="#"><img alt="Photopea"; width="48px" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code"; width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"></a>
   </p>
 
 <!-- Activity section -->
