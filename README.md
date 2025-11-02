@@ -15,18 +15,18 @@
 
 <!-- Languages section -->
 
-<h2>Programming Languages</h1>
+<h3>Programming Languages</h3>
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python"; width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Lua"; width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg"></a>
 </p>
 
 <!-- Tools section -->
   
-<h2>Tools</h2>
+<h3>Tools</h3>
 
-  <p align="center">
+  <p align="left">
     <a href="#"><img alt="Brave"; width="48px" src="https://i.redd.it/gscm22m0nk481.png"></a>
     <a href="#"><img alt="Discord"; width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"></a>
     <a href="#"><img alt="Visual Studio Code"; width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"></a>
