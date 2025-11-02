@@ -18,8 +18,8 @@
 <h2>Programming Languages</h1>
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Lua" src="https://img.shields.io/badge/Lua-14354C.svg?logo=lua"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python"; width="64px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Lua"; width="64px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg"></a>
 </p>
 
 <!-- Tools section -->
