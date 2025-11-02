@@ -36,6 +36,12 @@
 <p align="center">
   
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=0LX-cRPUHxY"><img src="https://ytcards.demolab.com/?id=0LX-cRPUHxY&title=Loading+Screen+%2B+Dynamic+NPC&lang=en&timestamp=1755368713&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Loading Screen + Dynamic NPC" title="Loading Screen + Dynamic NPC"></a>
+<a href="https://www.youtube.com/watch?v=a9kD5oP-s68"><img src="https://ytcards.demolab.com/?id=a9kD5oP-s68&title=Slight+change+%2B+addon+%7C+Devlog+2.5&lang=en&timestamp=1754227359&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Slight change + addon | Devlog 2.5" title="Slight change + addon | Devlog 2.5"></a>
+<a href="https://www.youtube.com/watch?v=ilKIW805P_Y"><img src="https://ytcards.demolab.com/?id=ilKIW805P_Y&title=Slight+Changes+%7C+Devlog+2&lang=en&timestamp=1754218714&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Slight Changes | Devlog 2" title="Slight Changes | Devlog 2"></a>
+<a href="https://www.youtube.com/watch?v=F9Rr1sXdCMc"><img src="https://ytcards.demolab.com/?id=F9Rr1sXdCMc&title=Minor+Addons+%7C+Devlog+1.5&lang=en&timestamp=1754207195&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Minor Addons | Devlog 1.5" title="Minor Addons | Devlog 1.5"></a>
+<a href="https://www.youtube.com/watch?v=3HX_ajuBd-s"><img src="https://ytcards.demolab.com/?id=3HX_ajuBd-s&title=Devlog+1+%7C+Movement+System+%2F+Chat&lang=en&timestamp=1754133947&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Devlog 1 | Movement System / Chat" title="Devlog 1 | Movement System / Chat"></a>
+<a href="https://www.youtube.com/shorts/FclTMJMh7RQ"><img src="https://ytcards.demolab.com/?id=FclTMJMh7RQ&title=Bro+really+thought&lang=en&timestamp=1753713968&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Bro really thought" title="Bro really thought"></a>
 <!-- END YOUTUBE-CARDS -->
 
 </p>
