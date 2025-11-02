@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # allows updating README
+      contents: write   # allow committing to the repo
 
     steps:
       - name: Check out repository
@@ -26,5 +26,6 @@ jobs:
         with:
           channel_id: UC8dhutoCJKLHVxDzg0gaQvg
           comment_tag_name: YOUTUBE-CARDS
-          output_type: markdown   # output as plain markdown (no cards)
+          max_videos: 3           # 👈 only show the 3 latest videos
+          output_type: markdown   # generate Markdown thumbnails only
           show_duration: false    # no API key needed
