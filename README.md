@@ -5,12 +5,12 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/riftcode"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png&color=red"/></a>
+  <a href="https://www.youtube.com/c/riftcode"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/riftcqdes"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png&color=white"/></a>
+  <a href="https://twitter.com/riftcqdes"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/user-attachments/assets/914a8513-67a8-4310-a91f-0616cb308055"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
+<!-- https://i.imgur.com/AixJgnm.png -->
 <h2>Programming Languages</h2>
 
 <p>
@@ -37,10 +37,3 @@
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
 </p>
-
-<detail><h2>Coding experience</h2><detail>
-  <p>
-    Python - 2 weeks
-    Luau - 5 years
-    Skript - 6 months
-  </p>
