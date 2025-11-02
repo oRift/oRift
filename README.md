@@ -5,9 +5,9 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/riftcode"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png&logoColor=red"/></a>
+  <a href="https://www.youtube.com/c/riftcode"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png&color=red"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/riftcqdes"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png&logoColor=white"/></a>
+  <a href="https://twitter.com/riftcqdes"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png&color=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
