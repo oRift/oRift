@@ -42,4 +42,5 @@
   <p>
     Python - 2 weeks
     Luau - 5 years
+    Skript - 6 months
   </p>
