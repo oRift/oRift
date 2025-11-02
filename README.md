@@ -33,9 +33,10 @@
   <a href="https://github.com/oRift/github-readme-activity-graph"><img alt="Rift's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=oRift&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <h2>Past Work</h2>
-
+<p align="center">
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
+</p>
 
 <detail><h2>Coding experience</h2><detail>
   <p>
