@@ -27,7 +27,7 @@
 <h2>Tools</h2>
 
   <p align="center">
-    <a href="#"><img alt="Brave"; width="48px" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+    <a href="#"><img alt="Brave"; width="48px" src="https://i.redd.it/gscm22m0nk481.png"></a>
     <a href="#"><img alt="Discord"; width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"></a>
     <a href="#"><img alt="OBS Studio"; width="48px" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
     <a href="#"><img alt="Photopea"; width="48px" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
