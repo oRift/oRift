@@ -9,7 +9,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/riftcqdes"><img width="48px" alt="Twitter" title="Twitter" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/KMHrjpJk"><img width="48px" alt="Discord" title="Discord" src="https://www.vecteezy.com/vector-art/19493250-discord-logo-discord-icon-discord-symbol-free-vector"/></a>
+  <a href="https://discord.gg/KMHrjpJk"><img width="48px" alt="Discord" title="Discord" src=""/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
