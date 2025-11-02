@@ -19,9 +19,7 @@
 
 <p align="center">
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python"; width="64px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Lua"; width="64px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <!-- Tools section -->
@@ -30,15 +28,10 @@
 
   <p align="center">
     <a href="#"><img alt="Brave"; width="64px" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="#"><img alt="Discord"; width="64px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="#"><img alt="OBS Studio"; width="64px" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="#"><img alt="Photopea"; width="64px" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="#"><img alt="Visual Studio Code"; width="64px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
 
 <!-- Activity section -->
