@@ -28,7 +28,7 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 
-<h2>Github Activity</h2>
+<h2 align="center">Github Activity</h2>
 
   <a href="https://github.com/oRift/github-readme-activity-graph"><img alt="Rift's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=oRift&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
