@@ -37,7 +37,7 @@
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
 
-<summary><h2>Coding experience</h2></summary>
+<detail><h2>Coding experience</h2><detail>
   <p>
     Python - 2 weeks
     Luau - 5 years
