@@ -1,7 +1,6 @@
 name: GitHub Readme YouTube Cards
 on:
   schedule:
-    # Runs every hour, on the hour
     - cron: "0 * * * *"
   push:
     branches:
@@ -13,6 +12,10 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # 👈 allows push to repo
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -22,5 +25,5 @@ jobs:
           channel_id: UC8dhutoCJKLHVxDzg0gaQvg
           comment_tag_name: YOUTUBE-CARDS
           max_title_lines: 2
-          show_duration: false   # 👈 no API key needed
+          show_duration: false
           output_type: html
