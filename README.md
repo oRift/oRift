@@ -5,7 +5,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/riftcode"><img width="48px" alt="Youtube" title="Youtube" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg"/></a>
+  <a href="https://www.youtube.com/@riftcode"><img width="48px" alt="Youtube" title="Youtube" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/riftcqdes"><img width="48px" alt="Twitter" title="Twitter" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
