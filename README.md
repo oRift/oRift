@@ -10,13 +10,17 @@
   <a href="https://twitter.com/riftcqdes"><img width="48px" alt="Twitter" title="Twitter" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-<!-- https://i.imgur.com/AixJgnm.png -->
+
+<!-- Languages section -->
+
 <h2>Programming Languages</h2>
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Lua" src="https://img.shields.io/badge/Lua-14354C.svg?logo=lua"></a>
 </p>
+
+<!-- Tools section -->
   
 <h2>Tools</h2>
 
@@ -28,17 +32,21 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 
+<!-- Activity section -->
+
 <h2 align="center">Github Activity</h2>
 
   <a href="https://github.com/oRift/github-readme-activity-graph"><img alt="Rift's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=oRift&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+<!-- Work section -->
+
 <h2 align="center">Past Work</h2>
 <p align="center">
-  
-<!-- YOUTUBE-CARDS:START -->
-<!-- YOUTUBE-CARDS:END -->
-
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 </p>
+
+<!-- History section -->
 
 <details>
   <summary><h3>Coding history</h3></summary>
