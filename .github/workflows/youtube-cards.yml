@@ -1,4 +1,4 @@
-name: GitHub Readme YouTube Thumbnails
+name: GitHub Readme YouTube Cards
 on:
   schedule:
     # Runs every hour, on the hour
@@ -15,17 +15,18 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # allow committing to the repo
+      contents: write   # needed to update the README
 
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Generate YouTube thumbnails
+      - name: Generate YouTube cards
         uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UC8dhutoCJKLHVxDzg0gaQvg
           comment_tag_name: YOUTUBE-CARDS
-          max_videos: 3           # 👈 only show the 3 latest videos
-          output_type: markdown   # generate Markdown thumbnails only
-          show_duration: false    # no API key needed
+          max_videos: 3           # 👈 show only 3 videos
+          max_title_lines: 1
+          output_type: html       # 👈 use stylized cards (from ytcards.demolab.com)
+          show_duration: false    # 👈 no API key needed
