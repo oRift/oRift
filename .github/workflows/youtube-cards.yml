@@ -4,23 +4,23 @@ on:
     # Runs every hour, on the hour
     - cron: "0 * * * *"
   push:
-    # run when the workflow file is modified
     branches:
       - main
     paths:
       - ".github/workflows/youtube-cards.yml"
-  # run when dispatched from actions tab
   workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UC8dhutoCJKLHVxDzg0gaQvg
           comment_tag_name: YOUTUBE-CARDS
           max_title_lines: 2
-          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-          show_duration: true
+          show_duration: false   # 👈 no API key needed
           output_type: html
