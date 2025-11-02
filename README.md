@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/oRift/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Advanced%20Luau%20coder;5%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=440&height=45&color=color=F8D866&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Advanced%20Luau%20coder;5%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=440&height=45&color=color=1F222E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
