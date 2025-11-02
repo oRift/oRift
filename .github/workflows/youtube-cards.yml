@@ -1,6 +1,7 @@
-name: GitHub Readme YouTube Cards
+name: GitHub Readme YouTube Thumbnails
 on:
   schedule:
+    # Runs every hour, on the hour
     - cron: "0 * * * *"
   push:
     branches:
@@ -14,16 +15,16 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # 👈 allows push to repo
+      contents: write   # allows updating README
 
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+      - name: Generate YouTube thumbnails
+        uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UC8dhutoCJKLHVxDzg0gaQvg
           comment_tag_name: YOUTUBE-CARDS
-          max_title_lines: 2
-          show_duration: false
-          output_type: html
+          output_type: markdown   # output as plain markdown (no cards)
+          show_duration: false    # no API key needed
