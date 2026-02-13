@@ -31,11 +31,6 @@
     <a href="#"><img alt="Roblox Studio"; width="48px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/RobloxStudio.svg"></a>
   </p>
 
-<!-- Activity section -->
-
-<h2 align="center">Github Activity</h2>
-  <a href="https://github.com/oRift/github-readme-activity-graph"><img alt="Rift's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=oRift&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 <!-- Work section -->
 
 <h2 align="center">Past Work</h2>
