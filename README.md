@@ -36,7 +36,9 @@
 <h2 align="center">Past Work</h2>
 <p align="center">
 <!-- BEGIN YOUTUBE-CARDS -->
-
+<a href="https://www.youtube.com/watch?v=0LX-cRPUHxY"><img src="https://ytcards.demolab.com/?id=0LX-cRPUHxY&title=Loading+Screen+%2B+Dynamic+NPC&lang=en&timestamp=1755368713&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Loading Screen + Dynamic NPC" title="Loading Screen + Dynamic NPC"></a>
+<a href="https://www.youtube.com/watch?v=a9kD5oP-s68"><img src="https://ytcards.demolab.com/?id=a9kD5oP-s68&title=Slight+change+%2B+addon+%7C+Devlog+2.5&lang=en&timestamp=1754227359&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Slight change + addon | Devlog 2.5" title="Slight change + addon | Devlog 2.5"></a>
+<a href="https://www.youtube.com/watch?v=ilKIW805P_Y"><img src="https://ytcards.demolab.com/?id=ilKIW805P_Y&title=Slight+Changes+%7C+Devlog+2&lang=en&timestamp=1754218714&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Slight Changes | Devlog 2" title="Slight Changes | Devlog 2"></a>
 <!-- END YOUTUBE-CARDS -->
 </p>
 
