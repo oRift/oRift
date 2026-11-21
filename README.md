@@ -44,5 +44,5 @@
 
 <details>
   <summary><h3>Coding history</h3></summary>
-  I started coding Luau at a young age, scripting in Roblox Studio. After 5 years, I decided to move on from that and learn more languages. Currently at Python as of writing.
+  I am learning html, css and js.
 </details>
